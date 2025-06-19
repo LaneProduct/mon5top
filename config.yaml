@@ -53,3 +53,4 @@ networks:
         address: 0x88B96aF200c8a9c35442C8AC6cd3D22695AaE4F0
       - name: MadnessRouter
         address: 0x64Aff7245EbdAAECAf266852139c67E4D8DBa4de
+        
